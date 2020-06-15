@@ -29,5 +29,4 @@ deno fmt **/*.ts
 
 - [is.js](https://github.com/cedriking/is.js)
 - [Deno Website](https://deno.land)
-- [Deno Style Guide](https://deno.land/std/style_guide.md)
 - [Deno Gitter](https://gitter.im/denolife/Lobby)
