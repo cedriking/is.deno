@@ -29,4 +29,4 @@ deno fmt **/*.ts
 
 - [is.js](https://github.com/cedriking/is.js)
 - [Deno Website](https://deno.land)
-- [Deno Gitter](https://gitter.im/denolife/Lobby)
+- [Deno Discord](https://discord.gg/deno)
